@@ -1,0 +1,316 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2015-04-16T06:38:08.790Z,51.44,12.129,20.6,3.3,ml,,,,1,us,us20002766,2015-06-26T23:15:53.040Z,"1km NE of Grobers, Germany",earthquake,7.8,9.3,,,reviewed,bgrd,bgrd
+2014-05-31T10:37:20.310Z,50.1965,12.4098,10,3.8,mwr,,44,0.918,0.68,us,usc000r9ff,2015-01-29T03:09:17.453Z,"4km NE of Skalna, Czech Republic",earthquake,,1.9,0.063,24,reviewed,us,us
+2014-05-17T16:46:27.000Z,49.7934,8.6319,10,3.6,mwr,,56,1.478,1.38,us,usb000qsmq,2015-01-30T03:36:50.700Z,"2km SE of Pfungstadt, Germany",earthquake,,1.6,0.073,18,reviewed,us,us
+2013-08-09T10:44:08.000Z,47.242,11.473,6.4,3.7,ml,,,,1.65,us,usb000izfh,2015-01-31T00:00:03.921Z,"1km ENE of Sistrans, Austria",earthquake,,6.8,,,reviewed,us_rom,us_zamg
+2013-07-20T03:30:55.000Z,47.421,9.32,4.2,3.6,ml,18,100,,,us,usb000iid5,2014-11-07T01:51:18.516Z,"3km ESE of Andwil, Switzerland",earthquake,,,,,reviewed,zur,zur
+2013-02-07T23:19:08.330Z,53.41,6.623,10,3.4,ml,30,81.2,,1.26,us,usc000f3vu,2015-01-30T15:15:22.126Z,"11km NNE of Winsum, Netherlands",earthquake,,,,,reviewed,us,bgs
+2012-08-16T20:30:33.400Z,53.342,6.752,3,3.4,ml,67,80.1,,,us,usp000jqd4,2015-03-24T02:16:12.570Z,"The Netherlands",earthquake,,,,,reviewed,dbn,dbn
+2011-09-08T19:02:50.300Z,51.683,6.025,6,4.2,mb,101,65.4,,,us,usp000j7t2,2016-02-26T16:54:58.218Z,"Germany",earthquake,,,,3,reviewed,grf,us
+2011-09-04T03:52:29.400Z,50.17,12.478,2,4,ml,32,182.8,,,us,usp000j7jv,2014-11-07T01:45:49.970Z,"Czech Republic",earthquake,,,,,reviewed,csem,ldg
+2011-02-14T12:43:12.710Z,50.34,7.841,12,3.9,mwr,90,31.8,,,us,usp000huh2,2015-03-24T01:40:28.377Z,"Germany",earthquake,,,,,reviewed,fbb,us
+2010-12-23T01:35:58.160Z,49.993,8.224,9,3.4,ml,14,112.9,,,us,usp000hrmk,2014-11-07T01:43:12.785Z,"Germany",earthquake,,,,,reviewed,fbb,fbb
+2010-10-19T00:38:28.570Z,47.381,11.644,6.6,4,ml,36,37.1,,1.17,us,usp000hn8y,2015-03-24T01:12:52.236Z,"Austria",earthquake,,6.5,,,reviewed,us,csem
+2010-06-29T00:42:46.000Z,50.035,8.311,10,3.4,ml,11,124.7,,,us,usp000hep3,2014-11-07T01:41:45.493Z,"Germany",earthquake,,,,,reviewed,csem,csem
+2010-04-11T11:16:16.700Z,50.354,7.339,5,3.4,ml,13,94.7,,,us,usp000hb6f,2014-11-07T01:41:15.272Z,"Germany",earthquake,,,,,reviewed,grf,ldg
+2009-07-24T02:58:06.010Z,51.524,6.52,5,4.1,mb,13,119.7,,0.73,us,usp000gzjr,2015-03-24T02:32:24.723Z,"Germany",earthquake,,,,1,reviewed,us,us
+2009-05-05T01:39:24.900Z,47.67,7.73,10,3.6,mwr,139,16.6,,,us,usp000gwup,2015-03-24T01:40:44.982Z,"Switzerland",earthquake,,,,,reviewed,str,us
+2009-01-04T15:30:30.000Z,47.175,9.36,2.9,4.5,ml,134,29.3,,,us,usp000gs60,2014-11-07T01:38:10.032Z,"Switzerland",earthquake,,,,,reviewed,zur,ldg
+2008-12-25T19:21:54.230Z,48.049,9.488,10,3.1,ml,48,49.1,,0.89,us,usp000grfm,2014-11-07T01:38:02.785Z,"Germany",earthquake,,,,,reviewed,us,zamg
+2008-12-25T17:50:28.700Z,47.896,7.53,4,2.7,ml,26,68.8,,,us,usp000grfh,2014-11-07T01:38:02.723Z,"Switzerland",earthquake,,,,,reviewed,ldg,ldg
+2008-12-25T13:53:17.600Z,51.524,6.675,1,3.2,ml,33,235.8,,,us,usp000grf3,2014-11-07T01:38:02.689Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-12-23T00:50:25.400Z,51.5,6.581,1,2.9,ml,20,289.8,,,us,usp000gr7m,2014-11-07T01:38:01.330Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-12-20T04:48:16.770Z,51.78,7.972,10,3,ml,20,303.6,,0.27,us,usp000gqzw,2014-11-07T01:38:00.205Z,"Germany",earthquake,,,,,reviewed,us,ldg
+2008-12-16T11:22:20.300Z,47.2,10.1,10,2.8,ml,19,272.7,,,us,usp000gqqe,2014-11-07T01:37:58.659Z,"Austria",earthquake,,,,,reviewed,fbb,ldg
+2008-12-16T00:40:56.600Z,47.441,9.202,7.4,2.5,ml,42,104.5,,,us,usp000gqpn,2014-11-07T01:37:58.579Z,"Switzerland",earthquake,,,,,reviewed,zur,ldg
+2008-12-16T00:34:33.290Z,47.449,9.198,7,3.1,ml,59,87.9,,,us,usp000gqpm,2014-11-07T01:37:58.570Z,"Switzerland",earthquake,,,,,reviewed,zur,ldg
+2008-12-12T03:02:50.710Z,48.427,9.098,10,2.5,ml,19,270.8,,0.46,us,usp000gqed,2014-11-07T01:37:57.545Z,"Germany",earthquake,,,,,reviewed,us,ldg
+2008-12-10T03:28:01.070Z,51.654,6.562,10,3.3,ml,20,291.5,,0.72,us,usp000gqam,2014-11-07T01:37:56.996Z,"Germany",earthquake,,,,,reviewed,us,ldg
+2008-12-08T17:21:52.600Z,51.119,6.484,2,3,ml,24,278.9,,,us,usp000gq6x,2014-11-07T01:37:55.853Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-11-25T04:52:29.300Z,48.89,8.199,10,2.8,ml,30,71.1,,,us,usp000gpdb,2014-11-07T01:37:47.868Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-11-23T18:44:18.900Z,50.23,12.51,0,2.9,ml,14,149.6,,,us,usp000gpa2,2014-11-07T01:37:47.060Z,"Czech Republic",earthquake,,,,,reviewed,gfu,gfu
+2008-11-22T16:31:14.500Z,51.4,7.84,5,2.9,ml,22,273.7,,,us,usp000gp79,2014-11-07T01:37:46.708Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2008-11-22T07:41:22.000Z,51.563,6.859,1,3.3,ml,33,259.3,,,us,usp000gp6p,2014-11-07T01:37:46.610Z,"Germany",earthquake,,,,,reviewed,grf,ldg
+2008-11-12T20:56:56.500Z,51.461,6.619,1,3.4,ml,29,257.1,,,us,usp000gnjb,2014-11-07T01:37:43.728Z,"Germany",earthquake,,,,,reviewed,grf,ldg
+2008-10-31T03:17:40.320Z,50.372,12.389,10,2.9,ml,17,238,,0.66,us,usp000gmfx,2014-11-07T01:37:34.566Z,"Germany-Czech Republic border region",earthquake,,,,,reviewed,us,ldg
+2008-10-30T08:19:03.500Z,50.216,12.444,8.9,2.7,ml,11,234,,,us,usp000gmdw,2014-11-07T01:37:34.368Z,"Czech Republic",earthquake,,,,,reviewed,grf,grf
+2008-10-30T05:54:28.600Z,53.378,6.602,3,3.3,ml,26,105.5,,,us,usp000gmdm,2014-11-07T01:37:34.338Z,"The Netherlands",earthquake,,,,,reviewed,ldg,ldg
+2008-10-29T02:10:03.700Z,50.231,12.408,10,2.8,ml,5,341.6,,,us,usp000gm91,2014-11-07T01:37:33.765Z,"Czech Republic",earthquake,,,,,reviewed,ldg,ldg
+2008-10-28T14:51:52.200Z,50.229,12.463,9.4,3.3,ml,10,242.7,,,us,usp000gm7a,2014-11-07T01:37:33.101Z,"Czech Republic",earthquake,,,,,reviewed,grf,ldg
+2008-10-28T10:06:59.700Z,50.204,12.465,10.1,2.8,ml,12,237.5,,,us,usp000gm6w,2014-11-07T01:37:33.065Z,"Czech Republic",earthquake,,,,,reviewed,grf,grf
+2008-10-28T08:30:11.000Z,50.212,12.455,10,4.2,ml,60,68.7,,,us,usp000gm6r,2014-11-07T01:37:33.046Z,"Czech Republic",earthquake,,,,,reviewed,grf,ldg
+2008-10-28T08:27:35.000Z,50.204,12.466,8.4,3.3,ml,11,241.8,,,us,usp000gm6q,2014-11-07T01:37:33.044Z,"Czech Republic",earthquake,,,,,reviewed,grf,str
+2008-10-21T03:02:43.200Z,50.218,12.454,10,2.6,ml,6,211.8,,,us,usp000gkqc,2014-11-07T01:37:30.920Z,"Czech Republic",earthquake,,,,,reviewed,grf,gfu
+2008-10-21T02:14:02.300Z,50.218,12.452,10,3.5,ml,19,108.1,,,us,usp000gkq9,2014-11-07T01:37:30.912Z,"Czech Republic",earthquake,,,,,reviewed,grf,gfu
+2008-10-21T01:40:17.500Z,50.215,12.457,10,2.8,ml,4,211.7,,,us,usp000gkq4,2014-11-07T01:37:30.896Z,"Czech Republic",earthquake,,,,,reviewed,grf,gfu
+2008-10-21T01:10:54.800Z,50.22,12.443,10,3,ml,13,205.5,,,us,usp000gkq0,2014-11-07T01:37:30.878Z,"Czech Republic",earthquake,,,,,reviewed,grf,gfu
+2008-10-21T00:55:31.900Z,50.225,12.441,10,2.8,ml,12,169.6,,,us,usp000gkpz,2014-11-07T01:37:30.876Z,"Czech Republic",earthquake,,,,,reviewed,grf,ldg
+2008-10-20T15:38:16.500Z,51.453,6.575,7.6,2.9,ml,12,289.2,,0.37,us,usp000gkp0,2014-11-07T01:37:30.780Z,"Germany",earthquake,,24.8,,,reviewed,us,ldg
+2008-10-16T10:48:22.900Z,50.2,12.49,0,3.2,ml,17,234.3,,,us,usp000gkch,2014-11-07T01:37:29.714Z,"Czech Republic",earthquake,,,,,reviewed,gfu,gfu
+2008-10-15T03:40:49.100Z,50.19,12.51,0,2.9,ml,8,210.8,,,us,usp000gk9n,2014-11-07T01:37:29.315Z,"Czech Republic",earthquake,,,,,reviewed,gfu,gfu
+2008-10-15T03:38:30.400Z,50.2,12.49,0,2.6,ml,6,261.8,,,us,usp000gk9m,2014-11-07T01:37:29.313Z,"Czech Republic",earthquake,,,,,reviewed,gfu,ldg
+2008-10-14T19:00:32.500Z,50.193,12.441,6.8,4.1,ml,80,32.9,,,us,usp000gk8r,2014-11-07T01:37:29.215Z,"Czech Republic",earthquake,,,,,reviewed,grf,gfu
+2008-10-14T05:49:03.700Z,50.205,12.472,11.1,3.1,ml,13,169.4,,,us,usp000gk7v,2014-11-07T01:37:28.867Z,"Czech Republic",earthquake,,,,,reviewed,grf,ldg
+2008-10-14T04:05:48.600Z,50.192,12.427,4.6,3.3,ml,24,76.9,,,us,usp000gk7q,2014-11-07T01:37:28.814Z,"Czech Republic",earthquake,,,,,reviewed,grf,ldg
+2008-10-14T04:01:35.500Z,50.201,12.453,10.3,3.4,ml,21,76.1,,,us,usp000gk7n,2014-11-07T01:37:28.780Z,"Czech Republic",earthquake,,,,,reviewed,grf,gfu
+2008-10-13T04:37:25.500Z,50.34,7.45,1,2.6,ml,17,226,,,us,usp000gk4t,2014-11-07T01:37:28.085Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2008-10-13T01:46:29.100Z,50.2,12.53,0,2.5,ml,11,195.5,,,us,usp000gk4g,2014-11-07T01:37:28.050Z,"Czech Republic",earthquake,,,,,reviewed,gfu,ldg
+2008-10-13T01:42:47.000Z,50.199,12.423,10,2.9,ml,20,76.7,,,us,usp000gk4f,2014-11-07T01:37:28.047Z,"Czech Republic",earthquake,,,,,reviewed,grf,ldg
+2008-10-13T00:16:09.200Z,50.21,12.43,10,2.6,ml,18,118.5,,,us,usp000gk4b,2014-11-07T01:37:28.037Z,"Czech Republic",earthquake,,,,,reviewed,grf,ldg
+2008-10-12T15:09:53.000Z,50.187,12.47,10,3.2,ml,33,112.3,,,us,usp000gk33,2014-11-07T01:37:27.862Z,"Czech Republic",earthquake,,,,,reviewed,grf,ldg
+2008-10-12T07:56:09.400Z,50.2,12.51,0,2.8,ml,7,191.1,,,us,usp000gk23,2014-11-07T01:37:27.782Z,"Czech Republic",earthquake,,,,,reviewed,gfu,ldg
+2008-10-12T07:44:55.800Z,50.197,12.465,10,4.2,ml,78,65.6,,,us,usp000gk21,2014-11-07T01:37:27.770Z,"Czech Republic",earthquake,,,,,reviewed,grf,ldg
+2008-10-12T07:35:01.930Z,50.182,12.391,10,2.6,ml,8,110.9,,0.77,us,usp000gk20,2014-11-07T01:37:27.768Z,"Czech Republic",earthquake,,,,,reviewed,us,ldg
+2008-10-12T07:19:57.000Z,50.194,12.464,10,3.5,ml,29,95.7,,,us,usp000gk1z,2014-11-07T01:37:27.764Z,"Czech Republic",earthquake,,,,,reviewed,grf,ldg
+2008-10-12T07:08:45.200Z,50.199,12.461,10,2.7,ml,14,145.3,,,us,usp000gk1y,2014-11-07T01:37:27.761Z,"Czech Republic",earthquake,,,,,reviewed,grf,ldg
+2008-10-12T06:39:48.100Z,50.203,12.458,10,2.8,ml,22,144.8,,,us,usp000gk1v,2014-11-07T01:37:27.741Z,"Czech Republic",earthquake,,,,,reviewed,grf,gfu
+2008-10-11T11:13:27.800Z,50.204,12.455,10,2.9,ml,19,144.2,,,us,usp000gjys,2014-11-07T01:37:27.422Z,"Czech Republic",earthquake,,,,,reviewed,grf,ldg
+2008-10-11T05:55:02.200Z,50.21,12.5,0,2.7,ml,9,234.9,,,us,usp000gjxv,2014-11-07T01:37:27.225Z,"Czech Republic",earthquake,,,,,reviewed,gfu,ldg
+2008-10-11T01:34:38.400Z,50.206,12.455,10,2.8,ml,21,144.3,,,us,usp000gjxb,2014-11-07T01:37:27.091Z,"Czech Republic",earthquake,,,,,reviewed,grf,ldg
+2008-10-10T22:19:05.900Z,50.21,12.5,0,2.7,ml,9,201.9,,,us,usp000gjwz,2014-11-07T01:37:27.041Z,"Czech Republic",earthquake,,,,,reviewed,gfu,ldg
+2008-10-10T21:41:41.100Z,50.22,12.47,0,2.8,ml,8,193.4,,,us,usp000gjwx,2014-11-07T01:37:27.036Z,"Czech Republic",earthquake,,,,,reviewed,gfu,ldg
+2008-10-10T19:14:09.700Z,50.21,12.51,0,2.7,ml,8,211.4,,,us,usp000gjwf,2014-11-07T01:37:26.988Z,"Czech Republic",earthquake,,,,,reviewed,gfu,ldg
+2008-10-10T19:08:32.400Z,50.2,12.5,0,3.4,ml,22,140.7,,,us,usp000gjwd,2014-11-07T01:37:26.981Z,"Czech Republic",earthquake,,,,,reviewed,gfu,ldg
+2008-10-10T13:51:35.100Z,50.21,12.51,0,3.1,ml,7,211.4,,,us,usp000gjvu,2014-11-07T01:37:26.912Z,"Czech Republic",earthquake,,,,,reviewed,gfu,ldg
+2008-10-10T11:18:41.600Z,50.229,12.447,9,3.7,ml,36,162.8,,,us,usp000gjvc,2014-11-07T01:37:26.831Z,"Czech Republic",earthquake,,,,,reviewed,grf,ldg
+2008-10-10T08:08:45.900Z,50.211,12.456,10.1,4.4,ml,59,52.1,,,us,usp000gjv2,2014-11-07T01:37:26.782Z,"Czech Republic",earthquake,,,,,reviewed,grf,ldg
+2008-10-10T07:32:01.800Z,50.2,12.5,0,3.5,ml,16,191.5,,,us,usp000gjuz,2014-11-07T01:37:26.773Z,"Czech Republic",earthquake,,,,,reviewed,gfu,ldg
+2008-10-10T06:34:49.100Z,50.21,12.51,0,3.1,ml,7,262.6,,,us,usp000gjuw,2014-11-07T01:37:26.763Z,"Czech Republic",earthquake,,,,,reviewed,gfu,gfu
+2008-10-10T06:27:21.200Z,50.2,12.47,1,3.1,ml,8,261.4,,,us,usp000gjuu,2014-11-07T01:37:26.754Z,"Czech Republic",earthquake,,,,,reviewed,gfu,ldg
+2008-10-10T05:13:55.600Z,50.2,12.46,1,2.8,ml,5,261.2,,,us,usp000gjup,2014-11-07T01:37:26.743Z,"Czech Republic",earthquake,,,,,reviewed,gfu,ldg
+2008-10-10T04:52:50.500Z,50.22,12.5,2,3.1,ml,11,260.9,,,us,usp000gjuh,2014-11-07T01:37:26.733Z,"Czech Republic",earthquake,,,,,reviewed,gfu,gfu
+2008-10-10T04:22:16.800Z,50.2,12.46,2,3.2,ml,14,158.6,,,us,usp000gjud,2014-11-07T01:37:26.722Z,"Czech Republic",earthquake,,,,,reviewed,gfu,ldg
+2008-10-10T04:13:32.300Z,50.2,12.46,1,2.5,ml,4,217.2,,,us,usp000gjub,2014-11-07T01:37:26.719Z,"Czech Republic",earthquake,,,,,reviewed,gfu,gfu
+2008-10-10T04:13:26.200Z,50.2,12.46,1,2.5,ml,7,251.9,,,us,usp000gjua,2014-11-07T01:37:26.716Z,"Czech Republic",earthquake,,,,,reviewed,gfu,ldg
+2008-10-10T03:22:05.100Z,50.219,12.446,10.2,4,ml,57,65.7,,,us,usp000gju4,2014-11-07T01:37:26.696Z,"Czech Republic",earthquake,,,,,reviewed,grf,grf
+2008-10-10T03:18:36.100Z,50.19,12.53,0,2.9,ml,8,235.1,,,us,usp000gju3,2014-11-07T01:37:26.694Z,"Czech Republic",earthquake,,,,,reviewed,gfu,ldg
+2008-10-10T03:02:45.800Z,50.2,12.46,0,2.8,ml,9,233.8,,,us,usp000gju1,2014-11-07T01:37:26.690Z,"Czech Republic",earthquake,,,,,reviewed,gfu,ldg
+2008-10-09T22:20:35.300Z,50.232,12.546,5,3.5,ml,56,69.7,,,us,usp000gjtg,2014-11-07T01:37:26.516Z,"Czech Republic",earthquake,,,,,reviewed,csem,csem
+2008-10-09T22:15:55.500Z,50.22,12.52,1,2.9,ml,8,211.7,,,us,usp000gjtf,2014-11-07T01:37:26.514Z,"Czech Republic",earthquake,,,,,reviewed,gfu,ldg
+2008-10-09T21:53:47.800Z,50.22,12.5,2,2.7,ml,6,262.8,,,us,usp000gjte,2014-11-07T01:37:26.512Z,"Czech Republic",earthquake,,,,,reviewed,gfu,gfu
+2008-10-09T20:40:28.200Z,51.612,7.768,1,2.5,ml,14,195.9,,,us,usp000gjtc,2014-11-07T01:37:26.506Z,"Germany",earthquake,,,,,reviewed,grf,ldg
+2008-10-08T02:32:07.900Z,50.16,12.38,0,2.7,ml,4,258.1,,,us,usp000gjp1,2014-11-07T01:37:25.088Z,"Czech Republic",earthquake,,,,,reviewed,gfu,ldg
+2008-10-08T01:27:13.100Z,50.221,12.443,10.3,2.7,ml,6,131,,,us,usp000gjnz,2014-11-07T01:37:25.078Z,"Czech Republic",earthquake,,,,,reviewed,grf,gfu
+2008-10-08T01:04:38.300Z,50.221,12.439,9.9,2.8,ml,12,120.2,,,us,usp000gjnx,2014-11-07T01:37:25.072Z,"Czech Republic",earthquake,,,,,reviewed,grf,gfu
+2008-10-05T07:45:08.100Z,51.452,6.471,1,2.6,ml,8,304.5,,,us,usp000gjc9,2014-11-07T01:37:23.832Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-09-29T13:36:10.260Z,50.372,7.425,14.8,3,ml,20,92,,0.56,us,usp000ghye,2014-11-07T01:37:16.381Z,"Germany",earthquake,,5.7,,,reviewed,us,ldg
+2008-09-28T00:02:22.100Z,49.33,6.79,1,3,ml,46,76.1,,,us,usp000ghv6,2014-11-07T01:37:15.931Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2008-09-24T13:55:37.180Z,51.464,6.602,5,3,ml,12,157.7,,0.94,us,usp000ghmv,2014-11-07T01:37:14.645Z,"Germany",earthquake,,,,,reviewed,us,ldg
+2008-09-18T14:33:16.400Z,51.614,6.569,1,3.2,ml,12,202.4,,,us,usp000gh9r,2014-11-07T01:37:13.194Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-09-17T02:57:42.900Z,47.231,7.553,8.1,2.5,ml,42,60.5,,,us,usp000gh6h,2014-11-07T01:37:12.668Z,"Switzerland",earthquake,,,,,reviewed,zur,ldg
+2008-09-15T17:27:03.700Z,47.234,11.276,5,2.7,ml,6,188.2,,,us,usp000gh3u,2014-11-07T01:37:12.273Z,"Austria",earthquake,,,,,reviewed,ldg,ldg
+2008-09-10T13:57:27.000Z,47.4,11,10,3.1,ml,23,102.8,,,us,usp000ggt4,2014-11-07T01:37:10.616Z,"Austria",earthquake,,,,,reviewed,grf,ldg
+2008-09-10T13:33:36.000Z,47.4,11.1,10,2.9,ml,24,99.2,,,us,usp000ggsz,2014-11-07T01:37:10.604Z,"Austria",earthquake,,,,,reviewed,grf,ldg
+2008-09-10T13:24:50.900Z,47.393,11.062,10,2.8,ml,17,101.3,,,us,usp000ggsx,2014-11-07T01:37:10.599Z,"Austria",earthquake,,,,,reviewed,grf,ldg
+2008-08-27T07:06:44.600Z,48.314,6.687,11,2.5,ml,9,144,,,us,usp000gfp9,2014-11-07T01:36:59.993Z,"France",earthquake,,,,,reviewed,ldg,ldg
+2008-08-13T03:45:52.560Z,51.264,14.941,5,3.1,ml,6,199.3,,1,us,usp000gehx,2014-11-07T01:36:53.514Z,"Germany",earthquake,,,,,reviewed,us,grf
+2008-08-12T17:25:46.280Z,48.095,13.282,10,3.8,ml,66,41.8,,1.04,us,usp000gegp,2014-11-07T01:36:53.379Z,"Austria",earthquake,,,,,reviewed,us,ldg
+2008-08-11T17:59:27.100Z,51.559,6.534,1,2.6,ml,4,337.7,,,us,usp000geer,2014-11-07T01:36:53.115Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-08-11T17:58:36.600Z,51.539,6.493,1,2.7,ml,6,289.6,,,us,usp000geeq,2014-11-07T01:36:53.113Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-08-07T20:26:21.800Z,51.612,6.482,1,2.7,ml,4,306.9,,,us,usp000ge46,2014-11-07T01:36:51.470Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-08-06T18:16:34.100Z,48.107,13.182,10,2.8,ml,26,73.6,,0.64,us,usp000gdzk,2014-11-07T01:36:50.872Z,"Austria",earthquake,,,,,reviewed,us,ldg
+2008-07-22T17:46:10.600Z,47.35,6.02,5,2.7,ml,24,87.9,,,us,usp000gcwq,2014-11-07T01:36:41.526Z,"France",earthquake,,,,,reviewed,str,ldg
+2008-07-18T22:54:05.190Z,47.463,13.787,10,4.1,ml,74,35.7,,0.84,us,usp000gcj0,2014-11-07T01:36:40.052Z,"Austria",earthquake,,,,,reviewed,us,grf
+2008-07-18T18:12:39.600Z,52.33,7.66,5,3.4,ml,29,249.4,,,us,usp000gcha,2014-11-07T01:36:40.008Z,"Germany",earthquake,,,,,reviewed,str,str
+2008-07-09T04:32:21.000Z,48.45,9.04,10,2.7,ml,25,130.6,,,us,usp000gbpz,2014-11-07T01:36:35.954Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2008-07-03T20:16:02.500Z,48.02,11.63,5,2.7,ml,11,186.2,,,us,usp000gb8r,2014-11-07T01:36:33.789Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2008-07-03T04:35:38.300Z,48.45,9.02,10,2.5,ml,19,211.2,,,us,usp000gb6w,2014-11-07T01:36:33.347Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2008-06-29T06:35:29.860Z,47.149,10.416,10,2.5,ml,11,109.5,,0.77,us,usp000gax9,2014-11-07T01:36:27.962Z,"Austria",earthquake,,,,,reviewed,us,ldg
+2008-06-22T15:05:45.860Z,47.857,14.19,1.3,3.2,ml,37,92.5,,0.64,us,usp000gaas,2014-11-07T01:36:25.015Z,"Austria",earthquake,,7,,,reviewed,us,grf
+2008-06-15T22:06:39.840Z,48.125,9.382,24,2.6,ml,39,80.8,,,us,usp000g9rv,2014-11-07T01:36:21.822Z,"Germany",earthquake,,,,,reviewed,fbb,fbb
+2008-06-14T20:28:29.800Z,47.463,7.657,14,2.7,ml,52,40,,,us,usp000g9nb,2014-11-07T01:36:21.392Z,"Switzerland",earthquake,,,,,reviewed,zur,ldg
+2008-06-14T12:10:09.410Z,48.325,10.78,18,2.7,ml,20,110.3,,,us,usp000g9m4,2014-11-07T01:36:21.250Z,"Germany",earthquake,,,,,reviewed,fbb,grf
+2008-06-13T10:26:35.800Z,47.68,8.901,10.3,2.6,ml,26,162.8,,,us,usp000g9f3,2014-11-07T01:36:20.614Z,"Switzerland",earthquake,,,,,reviewed,zur,ldg
+2008-06-12T22:06:27.800Z,51.625,6.856,1,2.8,ml,13,224.7,,,us,usp000g9cu,2014-11-07T01:36:20.275Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-05-24T13:08:20.700Z,51.592,6.856,1,2.7,ml,7,293.1,,,us,usp000g7nb,2014-11-07T01:36:05.292Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-05-24T08:24:19.200Z,51.519,6.516,1,2.9,ml,10,220.5,,,us,usp000g7mm,2014-11-07T01:36:05.214Z,"Germany",earthquake,,,,,reviewed,grf,ldg
+2008-05-21T15:32:03.330Z,47.487,13.593,10,2.5,ml,9,168.8,,0.4,us,usp000g7dy,2014-11-07T01:36:04.181Z,"Austria",earthquake,,,,,reviewed,us,grf
+2008-05-21T13:39:56.730Z,47.49,13.508,1.4,3.5,ml,57,49.3,,0.97,us,usp000g7dk,2014-11-07T01:36:04.146Z,"Austria",earthquake,,7.5,,,reviewed,us,ldg
+2008-05-21T07:21:01.400Z,47.453,13.626,10,2.6,ml,16,74.4,,,us,usp000g7ct,2014-11-07T01:36:04.065Z,"Austria",earthquake,,,,,reviewed,grf,grf
+2008-05-13T09:55:11.500Z,51.531,6.524,1,3.3,ml,20,283.9,,,us,usp000g6hv,2014-11-07T01:35:59.685Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-05-06T11:16:44.700Z,50.766,10.038,1,2.6,ml,14,93.6,,,us,usp000g5ne,2014-11-07T01:35:51.804Z,"Germany",earthquake,,,,,reviewed,grf,grf
+2008-05-03T23:17:25.000Z,47.409,10.077,5,2.8,ml,39,81.5,,,us,usp000g5ek,2014-11-07T01:35:50.797Z,"Austria",earthquake,,,,,reviewed,ldg,ldg
+2008-05-03T19:09:26.700Z,47.345,10.087,5,2.6,ml,17,150.3,,,us,usp000g5e4,2014-11-07T01:35:50.715Z,"Austria",earthquake,,,,,reviewed,ldg,ldg
+2008-05-03T11:37:41.000Z,47.5,13.6,10,2.5,ml,7,166.2,,,us,usp000g5dg,2014-11-07T01:35:50.458Z,"Austria",earthquake,,,,,reviewed,grf,grf
+2008-05-03T07:47:56.000Z,49.343,6.822,1,2.5,ml,11,193.8,,,us,usp000g5d8,2014-11-07T01:35:50.427Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-05-02T06:54:39.200Z,51.538,6.583,1,3.1,ml,14,199.9,,,us,usp000g5an,2014-11-07T01:35:49.713Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-04-30T23:00:28.100Z,48.35,6.68,10,2.6,ml,26,44.4,,,us,usp000g57d,2014-11-07T01:35:45.486Z,"France",earthquake,,,,,reviewed,str,ldg
+2008-04-23T14:54:51.490Z,50.148,7.375,3,2.6,ml,7,210.5,,1.02,us,usp000g4n4,2014-11-07T01:35:41.849Z,"Germany",earthquake,,16.9,,,reviewed,us,ldg
+2008-04-23T12:10:58.400Z,51.534,6.591,1,3.1,ml,9,290.3,,,us,usp000g4mt,2014-11-07T01:35:41.808Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-04-19T09:35:14.400Z,49.34,6.8,1,2.5,ml,18,100.1,,,us,usp000g4a9,2014-11-07T01:35:40.634Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2008-04-17T16:00:32.540Z,47.746,12.799,10,3.8,ml,67,44.7,,1.01,us,usp000g45y,2014-11-07T01:35:39.378Z,"Austria",earthquake,,0,,,reviewed,us,ldg
+2008-04-16T23:29:05.100Z,50.17,7.79,10,2.8,ml,25,168.4,,,us,usp000g445,2014-11-07T01:35:38.444Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2008-04-03T00:06:17.080Z,53.082,9.114,5,2.8,ml,11,172.2,,1.27,us,usp000g2zq,2014-11-07T01:35:28.328Z,"Germany",earthquake,,,,,reviewed,us,grf
+2008-03-31T20:52:05.600Z,48.447,7.814,10,2.5,ml,25,61.2,,,us,usp000g2uc,2014-11-07T01:35:22.598Z,"France",earthquake,,,,,reviewed,ldg,ldg
+2008-03-25T16:05:09.000Z,48.45,7.78,5,2.7,ml,23,81.4,,,us,usp000g2bs,2014-11-07T01:35:19.286Z,"France",earthquake,,,,,reviewed,str,ldg
+2008-03-25T13:17:18.400Z,48.45,7.81,5,2.8,ml,26,79.6,,,us,usp000g2be,2014-11-07T01:35:19.264Z,"France",earthquake,,,,,reviewed,str,ldg
+2008-03-25T13:16:15.500Z,48.46,7.81,5,2.5,ml,23,80.9,,,us,usp000g2bd,2014-11-07T01:35:19.260Z,"France",earthquake,,,,,reviewed,str,ldg
+2008-03-16T07:26:47.700Z,47.732,14.209,10,2.9,ml,13,110.3,,,us,usp000g1ke,2014-11-07T01:35:15.937Z,"Austria",earthquake,,,,,reviewed,grf,grf
+2008-03-14T16:46:31.250Z,51.586,6.556,5,3,ml,20,287.4,,0.31,us,usp000g1g0,2014-11-07T01:35:15.443Z,"Germany",earthquake,,,,,reviewed,us,ldg
+2008-03-13T00:39:00.500Z,51.479,6.714,1,2.6,ml,16,290.7,,,us,usp000g1bz,2014-11-07T01:35:14.870Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-03-11T18:17:37.700Z,51.36,6.52,10,3.4,ml,33,197.4,,,us,usp000g18g,2014-11-07T01:35:13.975Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2008-03-09T17:28:51.700Z,47.387,10.954,25,2.5,ml,28,70.4,,,us,usp000g12f,2014-11-07T01:35:13.335Z,"Austria",earthquake,,,,,reviewed,ldg,ldg
+2008-03-07T05:06:49.400Z,48.628,8.516,23,2.5,ml,20,81.5,,,us,usp000g0w6,2014-11-07T01:35:11.943Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-02-23T15:30:56.200Z,49.364,6.845,2,4.5,mb,132,34.6,,,us,usp000fzsc,2017-04-26T18:07:51.383Z,"Germany",earthquake,,,,3,reviewed,ldg,us
+2008-02-21T22:06:52.600Z,49.382,6.806,1,2.5,ml,16,218.3,,,us,usp000fzk1,2014-11-07T01:35:00.756Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-02-18T13:28:56.600Z,49.37,6.85,1,3.2,ml,47,79.1,,,us,usp000fz66,2014-11-07T01:34:58.472Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2008-02-18T08:11:44.500Z,49.366,6.703,1,2.5,ml,13,92.8,,,us,usp000fz5m,2014-11-07T01:34:58.412Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-02-17T11:07:20.600Z,51.46,6.6,1,3.6,ml,52,152,,,us,usp000fz3q,2014-11-07T01:34:58.137Z,"Germany",earthquake,,,,,reviewed,grf,ldg
+2008-02-16T09:52:38.200Z,47.288,11.783,10,2.9,ml,23,96.3,,,us,usp000fz15,2014-11-07T01:34:57.509Z,"Austria",earthquake,,,,,reviewed,grf,ldg
+2008-02-16T09:48:22.900Z,48.87,8.2,10,3.2,ml,47,54.8,,,us,usp000fz14,2014-11-07T01:34:57.502Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2008-02-16T01:46:56.500Z,51.664,7.01,1,2.5,ml,16,295.1,,,us,usp000fz0f,2014-11-07T01:34:57.442Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-02-15T06:34:29.200Z,49.374,6.824,1,2.5,ml,14,110.4,,,us,usp000fyyh,2014-11-07T01:34:57.247Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-02-14T17:24:11.000Z,49.359,6.81,1,2.5,ml,13,216.1,,,us,usp000fyx5,2014-11-07T01:34:57.114Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-02-13T22:40:45.800Z,49.35,6.85,1,2.6,ml,20,80.6,,,us,usp000fyux,2014-11-07T01:34:56.769Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2008-02-13T13:56:46.600Z,49.39,6.78,1,3.3,ml,35,86.1,,,us,usp000fyu2,2014-11-07T01:34:56.615Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2008-02-11T06:59:37.300Z,49.389,6.774,1,2.7,ml,25,86.2,,,us,usp000fyne,2014-11-07T01:34:55.917Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-02-11T03:30:56.120Z,51.635,6.839,10,2.6,ml,25,158.4,,1.2,us,usp000fyn5,2014-11-07T01:34:55.888Z,"Germany",earthquake,,,,,reviewed,us,ldg
+2008-02-11T03:16:58.000Z,51.48,11.809,10,2.5,ml,9,270.4,,1.02,us,usp000fyn3,2014-11-07T01:34:55.884Z,"Germany",earthquake,,,,,reviewed,us,grf
+2008-02-09T20:47:10.500Z,49.37,6.81,1,3.5,ml,61,81.3,,,us,usp000fyje,2014-11-07T01:34:55.492Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2008-02-07T21:59:41.500Z,51.524,6.958,1,2.6,ml,15,293.2,,,us,usp000fydr,2014-11-07T01:34:54.817Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-02-05T14:50:30.300Z,47.202,6.453,10,2.8,ml,37,60.3,,,us,usp000fy81,2014-11-07T01:34:54.139Z,"France",earthquake,,,,,reviewed,ldg,ldg
+2008-02-05T00:16:55.970Z,48.441,9.03,8,2.6,ml,28,106.2,,,us,usp000fy6f,2014-11-07T01:34:53.968Z,"Germany",earthquake,,,,,reviewed,fbb,ldg
+2008-02-04T00:44:53.500Z,49.37,6.84,1,3.4,ml,60,79.7,,,us,usp000fy3y,2014-11-07T01:34:53.442Z,"Germany",earthquake,,,,,reviewed,fbb,ldg
+2008-02-03T06:11:27.100Z,51.542,6.557,1,2.8,ml,16,276.6,,,us,usp000fy1u,2014-11-07T01:34:52.794Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-02-02T01:46:02.500Z,49.37,6.82,1,2.5,ml,30,80.8,,,us,usp000fxyt,2014-11-07T01:34:51.833Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2008-02-01T06:28:34.900Z,49.352,6.715,1,2.8,ml,14,106.8,,,us,usp000fxx0,2014-11-07T01:34:49.930Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-02-01T06:09:51.200Z,48.443,9.028,2,2.5,ml,9,237.9,,,us,usp000fxwy,2014-11-07T01:34:49.908Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-01-30T21:37:11.800Z,49.36,6.798,1,2.5,ml,18,80.3,,,us,usp000fxtp,2014-11-07T01:34:47.187Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-01-30T14:30:37.500Z,48.47,8.95,10,2.8,ml,25,148.4,,,us,usp000fxss,2014-11-07T01:34:47.113Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2008-01-30T11:46:07.700Z,49.38,6.82,1,2.9,ml,24,99.5,,,us,usp000fxsd,2014-11-07T01:34:47.023Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2008-01-30T05:06:18.300Z,49.362,6.845,1,2.7,ml,20,107.9,,,us,usp000fxrh,2014-11-07T01:34:46.909Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-01-27T17:25:49.800Z,48.336,6.642,12,2.6,ml,16,112.9,,,us,usp000fxjz,2014-11-07T01:34:46.313Z,"France",earthquake,,,,,reviewed,ldg,ldg
+2008-01-27T07:13:52.200Z,48.333,6.666,12,2.5,ml,26,82.6,,,us,usp000fxj6,2014-11-07T01:34:46.250Z,"France",earthquake,,,,,reviewed,ldg,ldg
+2008-01-26T15:33:08.300Z,49.386,6.846,1,2.6,ml,17,108.5,,,us,usp000fxh1,2014-11-07T01:34:46.148Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-01-26T05:44:31.200Z,49.37,6.83,1,3.9,ml,68,97,,,us,usp000fxgf,2014-11-07T01:34:46.108Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2008-01-26T04:19:30.500Z,49.38,6.79,1,3.8,ml,88,35.6,,,us,usp000fxg5,2014-11-07T01:34:46.074Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2008-01-25T11:33:06.900Z,49.392,6.787,1,2.5,ml,27,105,,,us,usp000fxe9,2014-11-07T01:34:45.866Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-01-24T03:30:08.480Z,51.484,6.47,10,3.7,ml,56,156.4,,0.9,us,usp000fxaz,2014-11-07T01:34:45.462Z,"Germany",earthquake,,,,,reviewed,us,ldg
+2008-01-22T08:03:24.300Z,49.35,6.84,1,2.5,ml,8,193.8,,,us,usp000fx75,2014-11-07T01:34:44.643Z,"Germany",earthquake,,,,,reviewed,str,str
+2008-01-16T19:30:24.700Z,49.338,6.802,1,2.5,ml,15,108.2,,,us,usp000fwur,2014-11-07T01:34:42.916Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-01-16T10:42:03.100Z,49.411,6.834,1,3.5,ml,30,86.7,,,us,usp000fwtx,2014-11-07T01:34:42.801Z,"Germany",earthquake,,,,,reviewed,grf,ldg
+2008-01-10T11:17:33.700Z,49.37,6.84,1,3.5,ml,35,83.3,,,us,usp000fwd8,2014-11-07T01:34:40.000Z,"Germany",earthquake,,,,,reviewed,fbb,ldg
+2008-01-08T22:18:06.200Z,49.35,6.76,1,2.8,ml,23,80.2,,,us,usp000fw9s,2014-11-07T01:34:39.092Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2008-01-08T07:59:54.300Z,49.377,6.816,1,2.7,ml,11,155.8,,,us,usp000fw82,2014-11-07T01:34:38.939Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-01-07T15:04:09.900Z,49.32,6.83,1,2.5,ml,13,79.6,,,us,usp000fw6n,2014-11-07T01:34:38.081Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2008-01-04T09:53:41.500Z,49.386,6.845,2,3.5,ml,39,84.4,,,us,usp000fvye,2014-11-07T01:34:36.531Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2008-01-03T06:07:54.400Z,49.36,6.84,1,4.1,ml,71,66.9,,,us,usp000fvw8,2014-11-07T01:34:35.981Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-12-30T22:37:04.000Z,49.4,6.6,1,2.6,ml,26,102.6,,,us,usp000fvpc,2014-11-07T01:34:31.337Z,"Germany",earthquake,,,,,reviewed,grf,ldg
+2007-12-29T22:24:49.300Z,49.36,6.84,1,2.7,ml,22,82.3,,,us,usp000fvks,2014-11-07T01:34:30.993Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-12-29T02:32:14.800Z,49.37,6.83,1,2.8,ml,21,84.1,,,us,usp000fvj2,2014-11-07T01:34:30.869Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-12-28T12:47:59.900Z,49.37,6.73,1,2.5,ml,8,189.5,,,us,usp000fvgr,2014-11-07T01:34:30.731Z,"Germany",earthquake,,,,,reviewed,str,str
+2007-12-22T21:07:57.000Z,49.378,6.814,1,3,ml,50,82.3,,,us,usp000fv1f,2014-11-07T01:34:28.198Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-12-22T11:12:41.900Z,51.539,6.797,1,2.8,ml,28,292,,,us,usp000fv0h,2014-11-07T01:34:28.061Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-12-18T22:00:00.300Z,47.21,10.6,-2,2.8,ml,26,102.5,,,us,usp000fuqb,2014-11-07T01:34:26.451Z,"Austria",earthquake,,,,,reviewed,zur,ldg
+2007-12-18T19:39:54.600Z,49.36,6.81,1,2.5,ml,21,84.7,,,us,usp000fuq3,2014-11-07T01:34:26.429Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-12-14T23:01:14.200Z,49.37,6.8,1,3.1,ml,48,98,,,us,usp000fuft,2014-11-07T01:34:25.514Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-12-13T14:11:38.800Z,49.65,8.24,10,3,ml,20,79.7,,,us,usp000fucw,2014-11-07T01:34:25.164Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-12-12T21:40:35.900Z,49.387,6.818,1,2.6,ml,15,219.7,,,us,usp000fub4,2014-11-07T01:34:24.697Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-12-12T14:52:31.870Z,51.471,6.5,5,3.7,ml,60,95,,0.52,us,usp000fuah,2014-11-07T01:34:24.584Z,"Germany",earthquake,,,,,reviewed,us,ldg
+2007-12-11T20:29:15.000Z,49.373,6.804,10,3.7,ml,60,96.5,,,us,usp000fu9m,2014-11-07T01:34:23.954Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-12-09T04:21:59.300Z,48.36,6.67,10,2.8,ml,41,54.5,,,us,usp000fu39,2014-11-07T01:34:22.577Z,"France",earthquake,,,,,reviewed,str,ldg
+2007-12-05T13:51:03.600Z,49.394,6.852,1,3.8,ml,49,84.6,,,us,usp000ftw1,2014-11-07T01:34:21.503Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-11-28T16:18:36.000Z,49.38,6.77,1,3.2,ml,26,84.8,,,us,usp000ftft,2014-11-07T01:34:15.746Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-11-27T13:33:59.700Z,47.756,7.76,12,2.6,ml,15,147.4,,,us,usp000ftdv,2014-11-07T01:34:15.547Z,"Switzerland",earthquake,,,,,reviewed,ldg,ldg
+2007-11-26T17:27:16.500Z,49.4,6.76,1,3.9,ml,74,88.8,,,us,usp000ftc5,2014-11-07T01:34:15.112Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-11-26T06:22:30.000Z,49.341,6.727,1,3.5,ml,53,88.5,,,us,usp000ftb8,2014-11-07T01:34:14.964Z,"Germany",earthquake,,,,,reviewed,grf,ldg
+2007-11-25T08:43:05.370Z,48.616,8.968,13,2.5,ml,40,114.7,,,us,usp000ft8q,2014-11-07T01:34:14.502Z,"Germany",earthquake,,,,,reviewed,fbb,fbb
+2007-11-23T07:43:21.900Z,49.188,8.144,10,2.5,ml,10,166.9,,,us,usp000ft4g,2014-11-07T01:34:13.918Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-11-20T08:22:32.500Z,50.221,7.823,10,3,ml,23,171,,,us,usp000fsyh,2014-11-07T01:34:12.425Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-11-19T11:07:28.900Z,49.34,6.9,1,3.5,ml,62,72,,,us,usp000fswk,2014-11-07T01:34:12.074Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-11-17T19:03:36.200Z,50.2,8.03,10,2.8,ml,38,169.1,,,us,usp000fssu,2014-11-07T01:34:11.533Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-11-16T17:29:15.300Z,49.38,6.78,1,2.5,ml,29,84.3,,,us,usp000fsqk,2014-11-07T01:34:11.199Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-11-14T15:43:26.060Z,49.391,6.781,5,3.6,ml,61,68.4,,1.01,us,usp000fshz,2014-11-07T01:34:10.285Z,"Germany",earthquake,,,,,reviewed,us,str
+2007-11-10T10:31:31.200Z,49.38,6.86,1,4,ml,74,64.2,,,us,usp000fsad,2014-11-07T01:34:09.019Z,"Germany",earthquake,,,,,reviewed,fbb,ldg
+2007-11-02T17:52:42.800Z,49.352,6.84,1,2.5,ml,32,81.6,,,us,usp000frus,2014-11-07T01:34:06.125Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-11-02T09:12:53.800Z,49.351,6.816,1,2.9,ml,30,83.4,,,us,usp000frty,2014-11-07T01:34:05.853Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-10-30T09:20:02.600Z,47.38,7.12,9,2.5,ml,15,127.6,,,us,usp000frkt,2014-11-07T01:34:01.330Z,"Switzerland",earthquake,,,,,reviewed,zur,ldg
+2007-10-27T23:59:31.800Z,48.43,9,10,2.6,ml,30,104.6,,,us,usp000fre2,2014-11-07T01:34:00.103Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-10-26T22:05:58.900Z,49.37,6.8,1,3.2,ml,59,67.5,,,us,usp000fray,2014-11-07T01:33:59.700Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-10-25T06:21:39.060Z,48.151,7.981,12,2.6,ml,22,97.7,,,us,usp000fr7r,2014-11-07T01:33:59.242Z,"France",earthquake,,,,,reviewed,fbb,fbb
+2007-10-23T14:18:46.400Z,49.37,6.8,1,3.3,ml,26,86.5,,,us,usp000fr43,2014-11-07T01:33:58.645Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-10-19T04:42:01.400Z,50.56,12.09,10,3.6,ml,40,76.7,,,us,usp000fqvr,2014-11-07T01:33:57.352Z,"Germany-Czech Republic border region",earthquake,,,,,reviewed,str,fur
+2007-10-18T23:40:10.000Z,49.37,6.78,1,3,ml,65,82.7,,,us,usp000fqvf,2014-11-07T01:33:57.318Z,"Germany",earthquake,,,,,reviewed,str,str
+2007-10-17T07:36:20.000Z,47.935,7.606,14,2.5,ml,15,126.8,,,us,usp000fqrn,2014-11-07T01:33:56.849Z,"Switzerland",earthquake,,,,,reviewed,ldg,ldg
+2007-10-15T16:25:52.160Z,47.339,10.536,14.3,3.2,ml,66,73.9,,0.76,us,usp000fqm2,2014-11-07T01:33:56.205Z,"Austria",earthquake,,4,,,reviewed,us,str
+2007-10-12T20:14:17.100Z,51.696,7.82,1,2.7,ml,15,227.9,,,us,usp000fqdn,2014-11-07T01:33:55.186Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-10-12T00:51:17.800Z,49.37,6.81,1,3.5,ml,55,81.3,,,us,usp000fqbs,2014-11-07T01:33:54.945Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-10-08T15:09:33.900Z,49.376,6.835,1,2.6,ml,16,80.8,,,us,usp000fq4n,2014-11-07T01:33:52.154Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-10-08T13:44:23.800Z,49.36,6.82,1,3.6,ml,39,79.2,,,us,usp000fq4f,2014-11-07T01:33:52.105Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-10-03T18:06:21.800Z,49.365,6.853,1,2.6,ml,19,81.7,,,us,usp000fptj,2014-11-07T01:33:49.914Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-10-03T14:31:57.040Z,49.373,6.804,5,3.5,ml,45,82,,0.76,us,usp000fpt0,2014-11-07T01:33:49.415Z,"Germany",earthquake,,,,,reviewed,us,ldg
+2007-10-01T18:35:50.600Z,49.371,6.867,1,2.5,ml,13,88,,,us,usp000fpnr,2014-11-07T01:33:47.436Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-10-01T11:25:52.300Z,50.046,7.405,10,2.6,ml,14,202.4,,,us,usp000fpmj,2014-11-07T01:33:46.942Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-09-26T15:38:24.380Z,47.265,11.748,10,2.7,ml,4,147.5,,0.51,us,usp000fp5k,2014-11-07T01:33:40.186Z,"Austria",earthquake,,0,,,reviewed,us,grf
+2007-09-25T16:08:41.100Z,49.36,6.77,1,3.5,ml,41,81.4,,,us,usp000fp3d,2014-11-07T01:33:39.647Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-09-21T15:53:55.100Z,49.387,6.804,1,2.6,ml,20,87.9,,,us,usp000fnur,2014-11-07T01:33:37.957Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-09-20T20:04:52.680Z,47.778,12.88,10,3.5,ml,63,64.4,,0.83,us,usp000fnsz,2014-11-07T01:33:37.815Z,"Austria",earthquake,,,,,reviewed,us,grf
+2007-09-19T01:44:07.900Z,47.38,9.15,6,2.9,ml,39,108.8,,,us,usp000fnna,2014-11-07T01:33:37.148Z,"Switzerland",earthquake,,,,,reviewed,zur,grf
+2007-09-17T09:31:07.700Z,49.381,6.791,1,3.4,ml,40,88.3,,,us,usp000fnh4,2014-11-07T01:33:36.382Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-09-11T11:48:31.300Z,49.384,6.867,1,2.7,ml,11,101.4,,,us,usp000fmwv,2014-11-07T01:33:32.816Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-09-11T04:23:28.800Z,49.37,6.829,1,3.4,ml,35,80.3,,,us,usp000fmw7,2014-11-07T01:33:32.751Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-09-09T22:00:40.900Z,48.44,8.98,10,2.6,ml,38,80.4,,,us,usp000fmt5,2014-11-07T01:33:32.236Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-09-05T19:47:30.160Z,49.375,6.791,10,3.2,ml,38,82.9,,0.81,us,usp000fmgy,2014-11-07T01:33:30.874Z,"Germany",earthquake,,,,,reviewed,us,ldg
+2007-09-05T10:30:24.300Z,48.32,6.644,11,2.9,ml,36,44.2,,,us,usp000fmfz,2014-11-07T01:33:30.606Z,"France",earthquake,,,,,reviewed,ldg,ldg
+2007-09-02T22:29:54.700Z,48.45,8.96,10,2.6,ml,31,75.9,,,us,usp000fmac,2014-11-07T01:33:29.599Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-09-01T18:43:17.700Z,48.44,9.02,10,3,ml,44,50.5,,,us,usp000fm5p,2014-11-07T01:33:28.069Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-08-31T06:50:57.600Z,49.37,6.78,1,3.2,ml,21,88,,,us,usp000fm2c,2014-11-07T01:33:24.799Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-08-27T06:05:35.400Z,49.375,6.798,1,3.2,ml,25,82.6,,,us,usp000fksy,2014-11-07T01:33:23.424Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-08-27T02:40:49.500Z,48.41,8.97,10,2.8,ml,30,75.4,,,us,usp000fksm,2014-11-07T01:33:23.335Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-08-22T18:27:52.500Z,49.36,6.84,1,3.2,ml,29,78.2,,,us,usp000fkf9,2014-11-07T01:33:21.197Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-08-22T13:38:36.800Z,48.34,6.66,10,2.5,ml,16,149.2,,,us,usp000fkew,2014-11-07T01:33:21.154Z,"France",earthquake,,,,,reviewed,str,ldg
+2007-08-20T23:54:45.800Z,48.322,6.659,11.8,2.5,ml,22,82,,,us,usp000fkba,2014-11-07T01:33:20.186Z,"France",earthquake,,,,,reviewed,ldg,ldg
+2007-08-19T07:32:55.100Z,48.335,6.647,11.3,3.9,ml,81,32.3,,,us,usp000fk68,2014-11-07T01:33:19.229Z,"France",earthquake,,,,,reviewed,ldg,ldg
+2007-08-17T16:36:58.500Z,49.378,6.816,1,3.2,ml,28,82.2,,,us,usp000fk1t,2014-11-07T01:33:18.093Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-08-17T12:58:23.700Z,49.469,6.625,10.8,3.2,ml,29,107.7,,,us,usp000fk1a,2014-11-07T01:33:18.016Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-08-17T05:43:01.900Z,48.35,6.67,10,3.5,ml,46,32.8,,,us,usp000fk0e,2014-11-07T01:33:17.801Z,"France",earthquake,,,,,reviewed,str,ldg
+2007-08-17T04:16:50.300Z,49.383,6.851,1,2.5,ml,12,224.3,,,us,usp000fk05,2014-11-07T01:33:17.773Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-08-16T09:36:08.400Z,48.197,8.983,6,3.4,ml,71,26,,,us,usp000fjwg,2014-11-07T01:33:17.215Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-08-15T00:04:47.800Z,51.549,6.563,1,2.5,ml,6,290.3,,,us,usp000fjqb,2014-11-07T01:33:16.078Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-08-14T15:11:14.100Z,48.317,6.664,13,2.6,ml,19,90.1,,,us,usp000fjpa,2014-11-07T01:33:15.963Z,"France",earthquake,,,,,reviewed,ldg,ldg
+2007-08-14T11:57:51.100Z,48.218,8.987,8.5,2.8,ml,18,102.7,,,us,usp000fjnx,2014-11-07T01:33:15.929Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-08-13T06:00:21.000Z,48.331,6.645,10,3,ml,28,44.4,,,us,usp000fjjf,2014-11-07T01:33:15.474Z,"France",earthquake,,,,,reviewed,ldg,ldg
+2007-08-09T22:06:02.400Z,48.319,6.649,8,2.6,ml,25,64.2,,,us,usp000fj9p,2014-11-07T01:33:13.831Z,"France",earthquake,,,,,reviewed,ldg,ldg
+2007-08-09T13:06:52.600Z,49.36,6.8,1,3.2,ml,29,80.2,,,us,usp000fj8x,2014-11-07T01:33:13.737Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-08-09T10:06:12.600Z,49.374,6.842,1,2.8,ml,19,83.5,,,us,usp000fj8n,2014-11-07T01:33:13.714Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-08-08T18:44:49.000Z,51.661,7.704,1,2.6,ml,11,300.7,,,us,usp000fj6x,2014-11-07T01:33:13.460Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-08-07T14:41:59.200Z,48.34,6.69,10,2.7,ml,34,38.5,,,us,usp000fj3q,2014-11-07T01:33:12.931Z,"France",earthquake,,,,,reviewed,str,ldg
+2007-08-07T06:50:37.100Z,48.327,6.657,11.8,2.9,ml,26,44.2,,,us,usp000fj34,2014-11-07T01:33:12.895Z,"France",earthquake,,,,,reviewed,ldg,ldg
+2007-08-07T06:46:16.000Z,48.326,6.664,13,3.1,ml,33,52.6,,,us,usp000fj33,2014-11-07T01:33:12.890Z,"France",earthquake,,,,,reviewed,ldg,ldg
+2007-08-03T03:29:18.600Z,50.27,7.46,10,2.5,ml,16,88.6,,,us,usp000fhsd,2014-11-07T01:33:11.374Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-08-03T02:58:08.690Z,50.404,7.24,10,4.4,ml,143,50.8,,1.48,us,usp000fhsb,2015-03-24T02:03:03.777Z,"Germany",earthquake,,,,,reviewed,us,ldg
+2007-07-30T01:15:45.800Z,49.41,6.832,1,2.5,ml,12,191.7,,,us,usp000fhdp,2014-11-07T01:33:05.282Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-07-28T16:55:49.900Z,48.325,6.652,12.2,2.7,ml,22,80.4,,,us,usp000fha4,2014-11-07T01:33:04.885Z,"France",earthquake,,,,,reviewed,ldg,ldg
+2007-07-28T04:21:26.800Z,48.322,6.644,10.5,2.6,ml,32,76.2,,,us,usp000fh8p,2014-11-07T01:33:04.623Z,"France",earthquake,,,,,reviewed,ldg,ldg
+2007-07-27T12:02:53.800Z,48.325,6.648,11,2.7,ml,18,90.8,,,us,usp000fh6v,2014-11-07T01:33:04.382Z,"France",earthquake,,,,,reviewed,ldg,ldg
+2007-07-26T15:48:15.000Z,49.36,6.81,1,3.2,ml,28,79.7,,,us,usp000fh4u,2014-11-07T01:33:04.079Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-07-26T15:34:25.900Z,48.35,6.68,10,2.9,ml,34,31.5,,,us,usp000fh4t,2014-11-07T01:33:04.074Z,"France",earthquake,,,,,reviewed,str,ldg
+2007-07-26T14:14:47.400Z,48.322,6.667,12,2.5,ml,16,116.9,,,us,usp000fh4p,2014-11-07T01:33:04.064Z,"France",earthquake,,,,,reviewed,ldg,ldg
+2007-07-26T09:35:32.300Z,48.315,6.651,12,2.9,ml,29,53.4,,,us,usp000fh4c,2014-11-07T01:33:03.985Z,"France",earthquake,,,,,reviewed,ldg,ldg
+2007-07-26T08:12:10.800Z,47.808,7.288,9.9,2.7,ml,15,74.7,,,us,usp000fh44,2014-11-07T01:33:03.960Z,"Switzerland",earthquake,,,,,reviewed,ldg,ldg
+2007-07-20T17:57:47.100Z,49.37,6.82,1,3.1,ml,27,84.9,,,us,usp000fgqv,2014-11-07T01:33:01.142Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-07-16T13:45:11.200Z,48.488,7.577,10,2.5,ml,13,79.8,,,us,usp000fgby,2014-11-07T01:32:58.518Z,"France",earthquake,,,,,reviewed,ldg,ldg
+2007-07-13T23:08:31.900Z,49.357,6.866,1,3,ml,25,96.1,,,us,usp000fg47,2014-11-07T01:32:57.323Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-07-13T13:05:22.600Z,47.938,8.428,13,2.6,ml,11,175.7,,,us,usp000fg3j,2014-11-07T01:32:57.186Z,"Switzerland",earthquake,,,,,reviewed,ldg,ldg
+2007-07-10T15:47:47.100Z,48.341,6.652,10,2.5,ml,21,83.2,,,us,usp000ffxm,2014-11-07T01:32:56.276Z,"France",earthquake,,,,,reviewed,ldg,ldg
+2007-07-09T07:50:02.900Z,49.36,6.838,1,3,ml,19,195.3,,,us,usp000ffu9,2014-11-07T01:32:55.876Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-07-03T06:15:11.100Z,49.375,6.856,1,3,ml,24,82.4,,,us,usp000ffbg,2014-11-07T01:32:53.105Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-06-30T12:07:29.000Z,48.656,8.962,1,2.5,ml,11,225.9,,,us,usp000ff5x,2014-11-07T01:32:47.947Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-06-30T06:43:29.200Z,51.528,6.536,1,2.5,ml,4,337.3,,,us,usp000ff5e,2014-11-07T01:32:47.906Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-06-29T21:27:00.600Z,49.381,6.81,1,2.6,ml,27,99.6,,,us,usp000ff45,2014-11-07T01:32:47.252Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-06-27T21:27:02.100Z,49.389,6.847,1,2.9,ml,52,100.8,,,us,usp000fezr,2014-11-07T01:32:46.479Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-06-20T01:26:32.900Z,50.04,7.9,2,2.5,ml,13,161.3,,,us,usp000fed1,2014-11-07T01:32:43.903Z,"Germany",earthquake,,,,,reviewed,str,ldg
+2007-06-18T14:14:32.400Z,47.572,7.609,6,2.5,ml,10,186.7,,,us,usp000fe9j,2014-11-07T01:32:43.531Z,"Switzerland",earthquake,,,,,reviewed,ldg,ldg
+2007-06-10T05:00:47.800Z,48.34,6.68,10,2.6,ml,27,76.8,,,us,usp000fdrf,2014-11-07T01:32:40.837Z,"France",earthquake,,,,,reviewed,str,ldg
+2007-06-09T05:40:09.250Z,49.39,6.729,10,3.7,ml,76,76.4,,1.21,us,usp000fdp6,2014-11-07T01:32:40.603Z,"Germany",earthquake,,,,,reviewed,us,ldg
+2007-06-05T06:24:50.800Z,48.566,8.685,14,2.9,ml,20,67.6,,,us,usp000fddf,2014-11-07T01:32:39.307Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-06-04T19:34:20.700Z,51.525,6.555,1,2.6,ml,4,337.1,,,us,usp000fdck,2014-11-07T01:32:39.110Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-06-04T04:13:56.800Z,50.795,6.276,12,2.8,ml,15,274.8,,,us,usp000fday,2014-11-07T01:32:38.838Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-06-01T16:57:50.100Z,48.37,6.68,10,2.5,ml,28,44.9,,,us,usp000fd5e,2014-11-07T01:32:36.434Z,"France",earthquake,,,,,reviewed,str,ldg
+2007-05-29T10:01:02.400Z,49.585,8.245,10,2.5,ml,9,143,,,us,usp000fczh,2014-11-07T01:32:33.330Z,"Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-05-27T01:50:27.400Z,48.329,6.648,10,2.7,ml,44,44.3,,,us,usp000fcuk,2014-11-07T01:32:32.218Z,"France",earthquake,,,,,reviewed,ldg,ldg
+2007-05-26T15:33:57.700Z,48.323,6.662,10,2.8,ml,27,44,,,us,usp000fctd,2014-11-07T01:32:32.098Z,"France",earthquake,,,,,reviewed,ldg,ldg
+2007-05-26T13:40:22.080Z,48.353,6.606,10,3.7,ml,80,45.4,,0.99,us,usp000fct7,2014-11-07T01:32:32.072Z,"France",earthquake,,,,,reviewed,us,ldg
+2007-05-19T16:19:38.700Z,47.18,10.59,4,4.1,ml,193,34.6,,,us,usp000fcad,2014-11-07T01:32:29.996Z,"Austria",earthquake,,,,,reviewed,zur,fur
+2007-05-17T13:46:10.400Z,47.51,7.69,11,2.5,ml,23,44.4,,,us,usp000fc5j,2014-11-07T01:32:28.967Z,"Switzerland",earthquake,,,,,reviewed,zur,ldg
+2007-05-17T03:34:56.900Z,48.36,6.65,10,3.2,ml,71,28.2,,,us,usp000fc4h,2014-11-07T01:32:28.871Z,"France",earthquake,,,,,reviewed,str,ldg

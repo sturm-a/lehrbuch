@@ -1,0 +1,38 @@
+FID,the_geom,STRASSE,NAEHE,BEMERKUNG,ID,STATUS,OSM,ZUSTAENDIG,STT_ID,STT_NAME,ZUST_PERS,ERSTELLER,DATUM
+Bolzplaetze.1,POINT (3575181.0531399236 5365884.0688049635),Egertweg,39,,6,99,PT hinzu,StBU/VGV-GF,013,Böfingen,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.2,POINT (3574551.504804729 5366036.925117811),Eichberg Schildwache,,mit Toren und Basketball,8,99,PT hinzu,StBU/VGV-GF,013,Böfingen,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.3,POINT (3573969.3236203715 5365017.204179262),Eichengrund,104,mit Toren und Basketball,11,99,PT hinzu,StBU/VGV-GF,013,Böfingen,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.4,POINT (3573937.2878661817 5365069.010570323),Eichengrund,104,mit Toren und Basketball,12,99,PT hinzu,StBU/VGV-GF,013,Böfingen,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.5,POINT (3569492.835209457 5354753.072701188),Zum Dornhäule,41,mit Toren,24,99,PT hinzu,StBU/VGV-GF,025,Donaustetten,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.6,POINT (3570295.4793885117 5363813.706174152),Agathe-Streicher-Weg,54,Spielwiese mit Tor,32,99,PT hinzu,StBU/VGV-GF,015,Eselsberg,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.7,POINT (3570387.0192907676 5364685.831121037),Am Oberberghof,,"mit Toren, Basketball",35,99,PT enthalten,StBU/VGV-GF,015,Eselsberg,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.8,POINT (3570776.8530124477 5363741.656122767),Buttenweg - Stachelbeerweg,,"mit Skateranlage, Toren, Basketball, Tischtennis",42,99,PT hinzu,StBU/VGV-GF,015,Eselsberg,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.9,POINT (3571193.1503546312 5364201.723045314),Fort Unterer Eselsberg,Burgunderweg,"mit Toren, Basketball",48,99,PT hinzu,StBU/VGV-GF,015,Eselsberg,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.10,POINT (3571548.0051160688 5363986.563900552),Fort Unterer Eselsberg,Mähringer Weg,mit Toren,53,99,PT hinzu,StBU/VGV-GF,015,Eselsberg,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.11,POINT (3571381.6458408716 5363587.680584352),Unter dem Hetzenbäumle,,,68,99,PT hinzu,StBU/VGV-GF,015,Eselsberg,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.12,POINT (3569185.1368232802 5363121.47639566),Am Roten Berg,am Wald - Nähe Kleingärten,,96,99,PT hinzu,StBU/VGV-GF,016,Söflingen,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.13,POINT (3569712.9220805145 5362650.813766587),Harthauser Straße,119,mit Tor,98,99,PT hinzu,StBU/VGV-GF,016,Söflingen,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.14,POINT (3570088.374325409 5361429.772014743),Jörg-Syrlin-Straße,148,"mit Toren, Basketball",108,99,FL enthalten,StBU/VGV-GF,016,Söflingen,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.15,POINT (3570634.5472288416 5361983.648680226),Hasensteige,10,mit Toren,112,99,PT hinzu,StBU/VGV-GF,016,Söflingen,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.16,POINT (3564659.6841056566 5358645.537104799),Lauhstraße,50,,116,99,PT hinzu,StBU/VGV-GF,023,Eggingen,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.17,POINT (3566329.4513409785 5360836.6823698385),Waldstraße,29,,128,99,PT hinzu,StBU/VGV-GF,024,Ermingen,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.18,POINT (3572480.858963538 5356908.206332072),Im Wiblinger Hart,27,,171,99,PT hinzu,StBU/VGV-GF,018,Wiblingen,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.19,POINT (3572802.9631625917 5357573.208014699),Unterweiler Straße,71,,175,99,PT hinzu,StBU/VGV-GF,018,Wiblingen,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.20,POINT (3572414.423682125 5358786.960697745),Johannes-Palm-Straße,58,,181,99,PT hinzu,StBU/VGV-GF,018,Wiblingen,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.21,POINT (3572641.7635929654 5358303.258759786),Dreifaltigkeitsweg,21,"mit Toren, Basketball",188,99,FL enthalten,StBU/VGV-GF,018,Wiblingen,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.22,POINT (3572234.5921008326 5366109.687558694),Seidlheck,12,mit Toren,195,99,PT hinzu,StBU/VGV-GF,028,Lehr,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.23,POINT (3573198.0319336676 5368528.485688137),Zwischen den Wegen,26,"mit Toren, Tischtennis",205,99,FL enthalten,StBU/VGV-GF,020,Jungingen,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.24,POINT (3576588.4737961 5366794.669361857),Hafenberg,34,"mit Toren, Kletterwand",214,99,PT enthalten,StBU/VGV-GF,013,Böfingen,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.25,POINT (3575907.327220029 5366456.20090444),Bei der Pilzbuche,106,mit Toren und Basketball,220,99,FL+PT enthalten,StBU/VGV-GF,013,Böfingen,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.26,POINT (3574953.254273391 5366609.210397104),Buchenlandweg,99-157,mit Toren und Basketball,224,99,PT hinzu,StBU/VGV-GF,013,Böfingen,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.27,POINT (3575040.6632116935 5366304.594632174),Georg-Elser-Weg,3,,227,99,PT hinzu,StBU/VGV-GF,013,Böfingen,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.28,POINT (3575278.266983568 5363838.042763205),Friedrichsau,20,mit Toren,245,99,PT hinzu,StBU/VGV-GF,012,Oststadt,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.29,POINT (3573215.480965914 5363813.701118161),Schillerhöhe,,,263,99,PT hinzu,StBU/VGV-GF,011,Mitte,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.30,POINT (3573088.500447086 5362397.533936277),Kobelgraben,,,269,99,FL enthalten,StBU/VGV-GF,011,Mitte,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.31,POINT (3572343.4198250137 5363809.159185122),Lehrer-Tal-Weg,44,mit Toren,287,99,PT hinzu,StBU/VGV-GF,015,Eselsberg,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.32,POINT (3571999.762317007 5362796.738642281),Beim Bescheid,1,mit Toren,296,99,PT enthalten,StBU/VGV-GF,014,Weststadt,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.33,POINT (3571615.785122184 5362032.6460495),Sedanstraße,109,"mit Toren, Basketball",308,99,FL enthalten,StBU/VGV-GF,014,Weststadt,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.34,POINT (3570618.5247083604 5361168.512003538),Egginger Weg,40,,319,99,PT hinzu,StBU/VGV-GF,014,Weststadt,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.35,POINT (3571578.4020050047 5364662.869001877),Hafenweg,,,332,99,PT hinzu,StBU/VGV-GF,015,Eselsberg,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.36,POINT (3569296.0969744325 5355687.626661388),Bertholdstraße,Sportplatz,Bolzplatz,373,99,PT hinzu,StBU/VGV-GF,026,Gögglingen,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
+Bolzplaetze.37,POINT (3569833.337389521 5364770.449706226),Oberer Berg,,Bolzplatz,375,99,PT hinzu,StBU/VGV-GF,015,Eselsberg,Hr. Lieb,Udo Böser (ZS/TG),2012-11-30T00:00:00
